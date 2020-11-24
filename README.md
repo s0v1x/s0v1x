@@ -22,6 +22,6 @@
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://tryhackme.com/p/sovix">
-    <img src="https://img.shields.io/badge/TryHackMe-s0v1x-red?style=flat-square" />        
+    <img src="https://img.shields.io/badge/TryHackMe-s0v1x-red?style=for-the-badge" />        
   </a>&nbsp;&nbsp;
 </p>
