@@ -12,19 +12,19 @@
 
 <p align='center'>
 <p align='left'>
-  <a href="https://www.facebook.com/sed.labiad">
+  <a href="https://www.facebook.com/sed.labiad" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/salaheddinelabiad/">
+  <a href="https://www.linkedin.com/in/salaheddinelabiad/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/sedlabiad">
+  <a href="https://twitter.com/sedlabiad" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://tryhackme.com/p/sovix">
+  <a href="https://tryhackme.com/p/sovix" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme" />        
   </a>&nbsp;&nbsp;
-  <a href="https://sovix.me">
+  <a href="https://sovix.me" target="_blank">
     <img src="https://img.shields.io/badge/me-portfolio-black?style=for-the-badge" />        
   </a>&nbsp;&nbsp;
 </p>
