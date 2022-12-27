@@ -3,7 +3,7 @@
 <div align='left'>
   
 ## ➜  ~ whoami
->  I am a Data Science student at the Institute of Science, Technology & Innovation (IST&I), within the Mohammed VI Polytechnic University (UM6P), interested in everything related to the field of Data Science, Big Data Analysis, Machine Learning, Deep learning, Business Intelligence and CyberSecurity.
+>  Hey there! I'm a data scientist who adores spending hours on end staring at boring spreadsheets and playing with numbers until I find some hidden insights. I also have a passion for cybersecurity just don't expect me to save the world or anything.
 <img align='right' src="https://media2.giphy.com/media/wogIubFweiBkn6y8KU/giphy.gif" width="100px">
 
 </div>
