@@ -5,6 +5,8 @@
 <img align='right' src="https://media2.giphy.com/media/wogIubFweiBkn6y8KU/giphy.gif" width="100px">
 </div>
 
+<div align='left'>
+
 ## Where to find me :
 
 <p align='left'>
@@ -15,3 +17,4 @@
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
+</div>
