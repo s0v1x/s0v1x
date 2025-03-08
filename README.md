@@ -3,12 +3,10 @@
 ## ➜  ~ whoami
 >  Hey there! I'm a data scientist who adores spending hours on end staring at boring spreadsheets and playing with numbers until I find some hidden insights. I also have a passion for cybersecurity just don't expect me to save the world or anything.
 <img align='right' src="https://media2.giphy.com/media/wogIubFweiBkn6y8KU/giphy.gif" width="100px">
-
 </div>
 
 ## Where to find me :
 
-<p align='center'>
 <p align='left'>
   <a href="https://www.linkedin.com/in/salaheddinelabiad/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
